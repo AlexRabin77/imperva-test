@@ -1,0 +1,7 @@
+.container {
+    margin: 2rem auto 0 auto;
+}
+.save-btn{
+    cursor: pointer !important;
+    border-radius: 20px;
+}

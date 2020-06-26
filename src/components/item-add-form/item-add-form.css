@@ -1,0 +1,23 @@
+.error {
+    color:#db2269;
+    font-size: 0.625em;
+}
+
+.error-visible {
+    color:#db2269;
+    font-size: 0.625em;
+}
+
+.error-hidden {
+    color: white;
+    font-size: 0.625em;
+}
+input[type="text"]:focus,
+.uneditable-input:focus {   
+    border: solid 2px #007bff;
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0.075) inset, 0 0 0 #007bff;
+}
+.add-btn{
+    cursor: pointer !important;
+    border-radius: 20px;
+}
